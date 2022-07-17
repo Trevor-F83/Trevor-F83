@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Trevor-F83
 - 👀 I’m a father, software developer and amatuer photographer.
-- 🌱 I’m currently learning HTML5, CSS3, JavaScript, RESTful API's, GitHub, JSON and AJAX.
+- 🌱 I’m currently learning HTML5, CSS3, JavaScript, React.js, Node,js, Express, Python, Django, RESTful API's, GitHub, JSON and AJAX, POSTMAN, MongoDB, and Mongoose.
 - 💞️ I’m looking to collaborate on other projects with other developers, both experienced and learning!
 - 2022 Goals: Submit more to my github by creating and designing more web pages.
 - 📫 Reach me at DevTrevorF83@gmail.com
