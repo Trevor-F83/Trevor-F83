@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML5, CSS3, JavaScript, React.js, Node,js, Express, Python, Django, RESTful API's, GitHub, JSON and AJAX, POSTMAN, MongoDB, and Mongoose.
 - 💞️ I’m looking to collaborate on other projects with other developers, both experienced and learning!
 - 2022 Goals: Submit more to my github by creating and designing more web pages.
-- 📫 Reach me at DevTrev83@gmail.com
+- 📫 Reach me at thedevtrev83@gmail.com
 
 <!---
 Trevor-F83/Trevor-F83 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
